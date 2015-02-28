@@ -1,0 +1,13 @@
+
+    signed char: -127 to 127
+    unsigned char: 0 to 255
+    char: -127 to 127 or 0 to 255 
+    short: 10^5
+    unsigned short: 10^5
+    int: 10^5
+    unsigned int: 0 to 10^5
+    long: 10^10
+    unsigned long: 0 to 10^10
+    long long: 10^18
+    unsigned long long: 0 to 10^19 
+
